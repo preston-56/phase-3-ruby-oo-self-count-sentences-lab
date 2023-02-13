@@ -1,6 +1,6 @@
 # Counting Sentences Lab
 
-## Learning Goals
+### Learning Goals
 
 - Practice defining instance methods on a class
 - Practice defining instance methods that use the `self` keyword
